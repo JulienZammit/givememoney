@@ -1,0 +1,76 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Poetry files
+poetry.lock
+
+# Virtual environments
+# Uncomment the following if you use virtualenvs, especially if it's not managed by poetry
+# .venv/
+# venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.*
+.cache
+nosetests.xml
+pytest_cache/
+.pytest_cache/
+*.cover
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# WSL specific
+wsl*
+.bash_history
+.bash_logout
+.bashrc
+.profile
+
+# macOS specific
+.DS_Store
+
+# Editor specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log files and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Ignore mypy cache
+.mypy_cache/
+
+# Ignore Pylint and other linting tools
+pylint.log
+
+# Git hooks
+.hooks/
+
+# Env files (secrets, etc.)
+.env
+.env.*
