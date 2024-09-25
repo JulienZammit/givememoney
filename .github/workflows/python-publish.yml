@@ -31,7 +31,7 @@ jobs:
         poetry install
     - name: Run UnitTests
       run: |
-        poetry run python -m unittest tests.main_test
+        poetry run python -m unittest test.test_main
     - name: Build package
       if: github.ref == 'refs/heads/main'
       run: poetry publish --build --username sdsdjhkjhds --password sdfjhlsfjh
