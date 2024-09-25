@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -23,6 +26,7 @@
     "Python tests.Python tests for main_test.MyTestCase.executor": "Run",
     "Python.main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "//wsl.localhost/Ubuntu/home/julien/mlops/givememoney",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726498658920</updated>
-      <workItem from="1726498660009" duration="1471000" />
+      <workItem from="1726498660009" duration="3428000" />
     </task>
     <servers />
   </component>
